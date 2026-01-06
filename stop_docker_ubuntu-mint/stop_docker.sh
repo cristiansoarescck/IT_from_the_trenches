@@ -6,4 +6,4 @@ sudo systemctl stop docker.service docker.socket
 sudo systemctl disable docker.service docker.socket
 
 # For enable and start docker, run this command:
-sudo systemctl start docker
+#sudo systemctl start docker
